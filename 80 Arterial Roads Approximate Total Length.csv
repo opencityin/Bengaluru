@@ -1,0 +1,774 @@
+SL .NO,NAME OF THE ROAD,ORIGIN,DESTINATION,ENROUTE (VIA),"APPR.  LENGTH 
+(KM)",ZONE
+S-01,Bhattarahalli - Bidarahalli Road,"Bhattarahalli           (Near 
+NH-4)","BBMP Limits 
+(Bidarahalli)",Kittaganur,7,Mahadevapura -7
+S-02,Anandapur Road,Anandapura,Maragondanahalli,Anandapura,2,Mahadevapura -2
+S-03,ITI Colony - KR Puram Road,"BEL Road - Ramamurthy 
+Nagara Main Road","Bhupasandra Road @ 
+NH4 (Govt-ITI 
+College)","ITI Colony - KR Puram -RMS     
+Colony - Excise Colony",4,Mahadevapura -4
+S-04,KR Puram Railway Station Road,"Ramamurthynagara Main 
+Road Near Police 
+Quarters","Near ITI Colony Gate 
+(NH-4)","Jyothinagara-KR Puram, 
+Vijnanapura",4,Mahadevapura -4
+S-05,Hanagalipura Road,Channasandra Road,Aduru Road,Hanagalipura,2,Mahadevapura -2
+S-06,Kalkere- Kaudenahalli Road,Agara Junction,"Kaudenahalli Main 
+Road",Kalkere,5,Mahadevapura -5
+S-07,"Hennur- Bagalur Road  - 
+Ramamurthynagara main Road",Hennur - Bagalur Road,"Ramamurthy Nagara 
+Main Road","Hennur - Agara - Kalkere Road  
+Kaudenahalli Main Road - 
+Ramamurthy nagara Main Road @ 
+St. Annes College",8,Mahadevapura -8
+S-08,Horamavu - Agara Road,ORR,Agara Junction,"Nanjappa Garden - Babasaheb  
+palya- Horamavu-Agara",3,Mahadevapura -3
+S-09,HBR Layout Main Road,ORR,Hennur Main Road,4th and 5th Block (HBR Layout),2,Mahadevapura -2
+S-10,Horamavu Main Road,ORR,"Banasawadi Main 
+Road",BET College,1,ORR -1
+S-11,"Banasawadi Road - Channasandra Main 
+Road","Banasawadi Road  @ 
+Steel Factory","ORR Junction @ 
+Bridge",Banasawadi -B'Channasandra,4,ORR -4
+S-12,Chikkabanasawadi - Kasturinagara Road,"Lazer - Hennur Main 
+Road",ORR (Near),"Banasawadi - Chikkabanasawadi - 
+Kasturinagara",7,ORR -7
+S-13,Railway Line Road,"Old Madras Road  Near 
+NGEF Factory","ORR - Kasturinagara 
+Junction",Sadanandanagara,3,ORR -3
+S-14,7th Main Road  (Banasawadi),ORR,Banasawadi Road,Kalyananagara - Kammanahalli,3,ORR -3
+S-15,4th Cross Road  (HRBR Layout),Hennur Main Road,7th Main Road,Jalavayuvihar,2,ORR -2
+S-16,Nanjundappa Road  -Nehru Road,Hennur Main Road,Kammanahalli Road,Kammanahalli,2,ORR -2
+S-17,Oil Mill Road,Hennur Main Road,"7th Main Road  
+(Banasawadi)",Ramaswamy palya,2,ORR -2
+S-18,"Banasawadi Railway Station Road -4th 
+Cross Road - Huchins Road","Dr. Ambedkar Road - 
+Banasawadi Railway 
+Station Road","Banasawadi Main 
+Road + Pottery Road","Railway Line (Vivekanandanagara 
+Lingarajapura ) - B.L .Rice Nagar -
+Cooks Town",3,ORR -3
+S-19,Cooks Town Road,Banasawadi Road,"Banasawadi Railway 
+Station  Road",Vivekanandanagara,1,ORR -1
+S-20,Davis Road,"Arabic College Road  - 
+Dr. Ambedkar Road","Wheelers Road  
+Junction",Richards Town,2,ORR -2
+S-21,Nandidurga - Pottery Road,Jayamahal Road,Lazor Road,"Benzon Town & along Railway 
+Track",5,ORR -5
+S-22,Madhavaraya Mudalier Road,"Station Road - Dr. 
+Ambedkar Road","Byappanahalli Railway
+Gate","CooksTown - Kattalipalya along 
+Railway Track",5,ORR -5
+S-23,Church Road  - Pottery Road,JC Nagara Main Road,Pottery Road,"Chinnappa Garden - Pottery Road - 
+Krishnappa Garden",2,ORR -2
+S-24,Church Road,JC Nagara Main Road,"Chinnappa Garden 
+Road",Munireddy Palya,3,ORR -3
+S-25,"Doddannanagara - Devarajeevanahalli -  
+Periyarnagara Road","Dinnur Main Road  - 3rd 
+Cross Road",Dr. Ambedkar Road,"Doddannanagara - 
+Devarajeevanahalli - Periyarnagara",3,ORR -3
+S-26,Shampura Main Road,NH-7,"Arabic College Main 
+Road","Cholanagara - HBR Layout 2nd 
+Stage - Kadugondanahalli -      Dr. 
+Ambedkarnagara",9,ORR -9
+S-27,"7th Cross - Dinnur Road  - 3rd Cross - Dr. 
+Ambedkar Medical College Road  
+Vinayaka Temple Street Road  - 1st Main 
+Road",NH-7,Hennur Main Road,"Vishweshwaraiahnagara - Dinnur - 
+Kadugonandanahalli",7,ORR -7
+S-28,1st Main Road  (HBR Layout 3rd Block),Nagavara Road,"Hennur Main Road  
+Junctio",HBR Layout 3rd Block,2,ORR -2
+S-29,Govindapura Road  - 1st Main Road,Veerannapalya Road,ORR,Govindapura - HBR 4th Block,3,ORR -3
+S-30,Dasarahalli Road,Mestripalya,Kavalbyrasandra,"Nagavara- Sultanpalya - 
+Kadugondanahalli",4,ORR -4
+S-31,KHB Main Road,Dinnur Main Road,"Veerannana Palya 
+Near ORR",Kanakanagara - Veerannanapalya,3,ORR -4
+S-32,"JC Nagara Main Road  - Sultanpalya Main 
+Road  - Kanakanagara 1st Main Road",Jayamahal Road,ORR,"JC Nagar - Adi Kabir Ashram - 
+Sultan palya Main Road  - 
+Manorayanapalya - Dinnur - ORR",6,ORR -6
+S-33,"Matadahalli Layout Road (Taralabalu Road
+)",Bellary Road (NH-7),Dinnur Main Road,Matadahalli Layout - Rahamatnagar,3,ORR -3
+S-34,CIL- RT Nagara Main Road,Jayamahal Road,Dinnur Main Road,"Matadahalli - RT Nagara- 
+Ganganagara",3,ORR -3
+S-35,Mosque Road,St. Johns Church Road,Pottery Road,Mosque Road,2,ORR -2
+S-36,Coles Road,Ambedkar Road,"Wheelers - Banasawadi
+Road",Coles Road,2,ORR -2
+S-37,Promenade Road,Ambedkar Road,St. Johns Church Road,St. Francis Xavier,3,ORR -3
+S-38,"Road between Infantry Road - St. Johns 
+Church",Infantry Road,St. Johns Church Road,"Dickenson Road  - Sivachetti 
+Gardens",3,ORR -3
+SL .NO,NAME OF THE ROAD,ORIGIN,DESTINATION,ENROUTE (VIA),"APPR.  LENGTH 
+(KM)",ZONE
+S-39,Cunnigham Road  - Hospital Road,Chowdaiah Road,Kamaraj Road,"Mount Carmel College- Bowring 
+Hospital",4,ORR -4
+S-40,Queens Road,Station Road,Raj Bhavan Road,Shivajinagara,2,ORR -2
+S-41,Hains Road,MM Road,Hospital Road,Thimmaiah - OPH Road,3,ORR -3
+S-42,Thimmaiah Road,Miller Road,Kamaraj Road,Nehrupuram,3,ORR -3
+S-43,MV Jayaraman Road  - Station Road,Palace Road,Nethaji Road,Railway Line,3,ORR -3
+S-44,Avenue Road  - Palace Road,NR Road @ HPO,"Cunnigham Road &  
+upto Chowdaiah Road",Avenue - Palace- Miller Road,7,ORR -7
+S-45,Race Course Road,Ananda Rao Circle,MV Jayaraman Road,Race Course- Basaveshwara Circle,4,ORR -4
+S-46,"Bhupasandra Road- Vishwanatha 
+Nagenahalli Road",Dr. Rajgopal Road,"Kanakanagara Main 
+Road","Bhupasandra extension - Hebbal - 
+Guddadahalli - 
+Vasanthanagenahalli",5,ORR -5
+S-47,Kempapaura Main Road Kuvempu Road,Bellary Road,Nagavara main Road,"Coffee Board Layout- Kempapura- 
+Mariyannanapalya",4,Byatarayanapura -4
+S-48,Thanisandra Road,Srirampura,Thanisandra,Mestripalya - Rachenahalli,4,Byatarayanapura -4
+S-49,Byatarayanapura Road,Bellary Road,Navyanagara,Amruthahalli - Jakkur Road,3,Byatarayanapura -3
+S-50,Jakkur Road - Sampigehalli Road,Bellary Road,"Thanisandra Road - 
+Hosakote Main Road",Sampigehalli,8,Byatarayanapura -8
+S-51,Ballahalli Road,Kogilu,Sampigehalli cross,Vinayaka Layout,2,Byatarayanapura -2
+S-52,Raithrasanthe Road,Doddaballapura Road,Jakkur Road,"Jakkur- Railway Cross Line- 
+Yelahanka",7,Byatarayanapura -7
+S-53,Nellukunte - Thimmanahalli Road,Thimmanahalli Road,Kenchenahalli Road,Nellukunte - Thimmanahalli,5,Byatarayanapura -5
+S-54,"1st Main Road - (Yalahanka New Town) -
+16th B Cross -15th A Cross  -3rd A Main 
+Road (Yalahanka Setellite Town)",Atturu Road,"1st A Cross Road at 
+Doddaballapura Road","Yelahanka New Town - Yelahanka 
+SatelliteTown",9,Byatarayanapura -9
+S-55,1st Main Road  (Yelahanka Setellite Town),Doddaballapura Road,Bellary Road,"Chikkabommasandra - Judicial 
+Layout - Allalasandra",4,Byatarayanapura -4
+S-56,Shingapura - Chikkabettahalli Road,SMR Layout,"Ramagondanahalli 
+Road","Lakshmipura Cross - Shingapura - 
+Chikkabettahalli",7,"Byatarayanapura -4
+Dasarahalli -3"
+S-57,Lakshmipura - Guruagrahara Road,Kereguddadahalli,Guruagrahara,Lakshmipura - Guruagrahara,4,Dasarahalli -4
+S-58,Ganigarahalli Road,Hesaraghatta Main Road,BBMP Limits,Lakshmipura Cross,7,Dasarahalli -7
+S-59,Abbigere Road,Jalahalli Main Road,"Hesaraghatta Main 
+Road","Kamakondanahalli - Abbigere     -
+Lakshmipura",5,Dasarahalli -5
+S-60,Jalahalli - Abbigere Main Road,Jalahalli Main Road,"Hesaraghatta Main 
+Road",Ganigarahalli - Tarabanahalli,8,Dasarahalli -8
+S-61,GKVK Road,Thindlu,"NH-7 @ L & T 
+Factory",GKVK - Rajiv Gandhinagara,5,Byatarayanapura -5
+S-62,"N Domodharan - Sahakaranagara Main 
+Road",ORR,"Bellary Road  @ 
+Kashinagara","Devinagara - Kodigehalli 
+Sahakaranagara",6,Byatarayanapura -6
+S-63,TATA Nagara Road,Kodigehalli,ORR,TATAnagara,2,Byatarayanapura -2
+S-64,"Maruthinagara - Devinagara - Tata Nagara 
+Road",Kodigehalli Road,ORR,Badrappa layout,2,Byatarayanapura -2
+S-65,New Krishna Temple Road,Vidyaranyapura,"Deshabandhunagara @
+Railway Cross",Doddabommasandra,2,Byatarayanapura -2
+S-66,Hebbal Take Road,"New Krishna Temple 
+Road",NH-7,Nagenahalli,4,Byatarayanapura -4
+S-67,Nandini Layout Main Road,"Kanteerava Studio Main 
+Road",ORR,Nandini  Layout,3,ORR -3
+S-68,Jalahalli - HMT Layout Road,Jalahalli Road,Nanjappa Road,"Jalahalli - HMT Layout - Nanjappa 
+Layout",5,"Byatarayanapura -3
+Dasarahalli -2"
+S-69,Jalahalli -Watch Factory Road,"Ring Road - Kanteerava 
+Studio Main Road","Hesaraghatta Main 
+Road","Yeshwanthpura Suburb - HMT 
+Layout",8,Dasarahalli -8
+S-70,Siddarthanagara Road,Jalahalli (HMT),"Subrathomukherjee 
+Road",Siddarthanagara,3,Dasarahalli -3
+S-71,Mallasandra Road,Railway Line,Pipeline Road,Mallasandra,3,Dasarahalli -3
+S-72,Chikkasandra Road,Hesaraghatta Road,"Mallasandra Main 
+Road","Chikkasandra (Sapthagiri 
+Engineering College)",2,Dasarahalli -2
+S-73,Guddadahalli Road,Hesaraghatta Road,Hesaraghatta Road,Guddadahalli,5,Dasarahalli -5
+S-74,Jindalnagara Road,"Tumkur Road  @ 
+Jindalnagara",Guddadahalli,Jindalnagara,3,Dasarahalli -3
+S-75,Defence Colony Road,MEI Housing Colony,"Tumkur Road @ 
+Jindalnagara",Jindalnagara,3,Dasarahalli -3
+S-76,Pipeline Road -Raghavendra Road,Hesaraghatta Road,Tumkur Road,"Ragahavendra Rao Road- Ayyappa 
+temple- Yeshwanthpur Industrial",9,Dasarahalli -6
+,,,,,,ORR -3
+S-77,Road between NH4- Pipeline Road,NH-4,Pipeline Road,Peenya Industrial Area - I phase,1,Dasarahalli -1
+S-78,Bangalore Press Road,NH-4,Pipeline Road,Peenya Industrial Area - I phase,1,Dasarahalli -1
+S-79,Ravikirloskar Memorial Hospital Road,NH-4,Pipeline Road,Peenya Industrial Area - I phase,2,Dasarahalli -2
+S-80,Mohankumar Road,"Yeshwanthpur Railway 
+Station",ORR at Devinagar,Mathikere - Sanjeevappa garden,5,ORR -5
+S-81,New BEL Road,"Bashyam Circle 
+(Sadashivanagara)",ORR (BEL Circle),"C.V.Raman Road - CPRI Gate 
+M.S.R Hospital",7,ORR -7
+S-82,D.Rajagopal Road,ORR @ Patelappa Layout,Ballary Road @ IVRI,"Ramakrishnappa Layout 
+Gangenahalli, Nagasettihalli",5,ORR -5
+S-83,Doddakammanahalli Road,"Amarjyothi Layout - BEL 
+Road",Bhupasandra Road,Amarjyothi Layout- RMS Colony,3,ORR -3
+S-84,Triveni Road,"Yeshwanthpura Circle 
+(C.V. Raman Road)",BEL Road,"M.S. Ramaiah College, Devasandra
+Circle",4,ORR -4
+S-85,80ft Road,New BEL Road,D.Rajgopal Road,"Jaladarshini Layout - RMV 2nd 
+Stage- Aswathnagara",2,ORR -2
+S-86,B.Narayanaswamappa Road,"Yeshwanthpura Circle 
+(C.V. Raman Road)","M.S. Ramaiah Main 
+Road",Yeshwanthpura,2,ORR -2
+S-87,13th Cross Road (Sadashivanagara),C.V. Raman Road,Chowdaiah Road,Sadashivanagara,2,ORR -2
+S-88,8th Main Road (Sadashivanagara),Sankey Tank,Chowdaiah Road,Sadashivanagara,2,ORR -2
+S-89,2nd Main Road (Rajmahal - Guttahalli),Chowdaiah Road,Lingaiah Road,Guttahally Main Road,2,ORR -2
+S-90,Lingaiah Road,Hare Krishna Road,Chowdaiah Road,Guttahalli Main Road,3,ORR -3
+S-91,"Railway Line Parallel Road (Kumara Park 
+West)",Nehru Circle Junction,"Mount Carmel College 
+Under bridge",Kumara Park,3,ORR -3
+S-92,Kumara Krupa Road,Race Course Road,"Chowdaiah Road 
+(Windsor Manner 
+Bridge)","Hare Krishna Road- Shivananda 
+Circle",2,ORR -2
+S-93,Guttahalli Main Road - V.S. Raju Road,Link Road,"Chowdaiah Road At 
+Palace",Vinayaka Circle,2,ORR -2
+S-94,Link Road,Sampige Road,Lingaiah Road,Malleshwaram,2,ORR -2
+S-95,Harekrishna Road,Race Course Road,"Railway Line Parallel 
+Road",Hare Krishna Road,2,ORR -2
+S-96,Subedhar Chatram Road,Rajiv Gandhi Statue,K.G. Road,"Swastik Circle - Kino Talkies - 
+Anandarao Circle - Kapali Talkies",3,ORR -3
+S-97,Sampige Road,"T-Junction on Vatal 
+Nagaraj Road (Link 
+Road)","Chowdaiah Road 
+(Sankey Tank)","Platform Road - Venkataranga 
+Iyengar Road",4,ORR -4
+S-98,Margosa Road,Maramma Circle,C.V.Raman Circle,Malleshwaram,3,ORR -3
+S-99,"18th Cross (Malleshwaram) (Chitrashilpi 
+Venkatappa Road)",Railway Line,Chowdaiah Road,18th Cross Malleshwaram,2,ORR -2
+S-100,8th Main Road (Malleshwaram),"Yeshwanthpura Police 
+Station","Sampige Road Near 
+Sampige Theatre",Malleshwaram,5,ORR -5
+S-101,Rajarathnam Road,Dr. Rajkumar Road,Sampige Road,"Sankey Tank - 17th Cross 
+Malleshwaram",3,ORR -3
+S-102,"1st Main - 5th Main Road (Malleshwaram) 
+(Railway Parallel Road)","8th Main Road Railway 
+bridge (Railway Parallel 
+Road) (Old Tumkur 
+Road)",Sampige Road,"Subramanya Nagara -
+Malleshwaram",4,ORR -4
+S-103,"10th Cross Road- 23rd Cross Road- 
+Ta.Ra.Su. Road",Chord Road,"Mahakavi Kuvempu 
+Road",Subramanya Nagara,3,ORR -3
+S-104,"19th & 18th Main Road Rajajinagara 2nd 
+Block",10th Cross (Rajajinagara),"32nd Cross 
+(Rajajinagara)","19th & 18th Main Road Rajajinagar
+2nd Stage",2,ORR -2
+S-105,17th Main Road (Rajajinagar 3rd Block),"Mahakavi Kuvempu 
+Road",51th Cross Road,Rajajinagara 3rd Block,2,ORR -2
+S-106,12th Main Road (Rajajinagara),Dr. Rajkumar Road,"Mahakavi Kuvempu 
+Road",Rajajinagara,4,ORR -4
+S-107,ESI Hospital Road (Rajajinagara),Chord Road,Dr. Rajkumar Road,ESI Hospital - Rajajinagara,1,ORR -1
+S-108,"Kranthi Kavi Sarvajna Road (5th Main 
+Road)","Vatal Nagaru Road 
+(Okalipuram)","5th Cross 
+Malleshwaram 
+(Mahakavi Kuvempu 
+Road)","5th Main (Srirampura)- Ambedkar 
+Nagara- Sunrise Arunachalam 
+Circle- Naidunagara- 5th Cross 
+Malleshwaram",2,ORR -2
+S-109,Dhanavanthri Road,Sampige Road @ KSSCB,"Tank Bund Road @ 
+K.G. Road",KSRTC Bus Stand,2,ORR -2
+S-110,Sheshadri Road,Khoday's Circle,K.R. Circle,"Anandarao Circle, Sheshadri Road",3,ORR -3
+S-111,Park House Road,Palace Road,"Basaveshwara Circle &
+Ambedkar Street","Udyoga Soudha - Vidhana Souda - 
+MS Building",2,ORR -2
+S-112,1st Cross- 2nd Cross Road (Majestic Area),Dhanavantri Road,Palace Road,"Subedhar chatram Road - 
+Hanumanthappa Road",2,ORR -2
+S-113,BVK Iyengar Road - Kalidasa Road,Mysore  Road,Sheshadri Road,Abhinava theatre- Sagar theatre,3,ORR -3
+S-114,Post Office Road,K.G. Road,K.R. Circle,GAS College -UVCE,1,ORR -1
+S-115,Nrupathunga - Ambedkar Road,Hudson Circle (BBMP),G.P.O,"RBI - M.S Building- Vidhana 
+Soudha",3,ORR -3
+S-116,Cubbon Park Road,"K.R. Circle - 
+Siddalingaiah Circle 
+(Kasturaba  Road)",Hudson Circle,"Cubbon Park- Sheshadri lyer 
+Memorial Hall (Central Library)",4,ORR -4
+S-117,Lavellie Road,"Rajaram Mohan Roy 
+Road - General 
+Thimmaiah Road 
+Junction",M.G. Road,Nahar Heritage,3,ORR -3
+S-118,Vittala Malya Road (Grant Road),"Siddalingaiah Circle 
+(Kastura ba Road)","St. Marks Road 
+(Bishop Cotton Girls 
+High School)",D'souza Layout,1,ORR -1
+S-119,Museum Road,"St. Marks Road 
+(Childrens Park)",Brigade Road,"St. Joseph Evening College Sir. 
+Mirza Ismail Nagar (Richmond 
+Town)",1,ORR -1
+S-120,Commissionoriate Road,M.G. Road,"D'Souza Circle 
+(Richmond Road)",Football Stadium,1,ORR -1
+S-121,Rahman Khan Road,Shankar Mutt Road,NH-4,"Nandini Layout - Mahalakshmi 
+Layout",4,ORR -4
+S-122,"Nandini Layout- Suraswathipuram (1st 
+Main Road- 12th Cross Road)",Pipeline Road,Chord Road,"Mahalakshmi Layout- Nandini 
+layout- Maruthi Mandira, 
+Kurubarahalli- Saraswathipuram",5,ORR -5
+S-123,5th Main Road (Basavehswara Nagar),"1st Main Road 
+(Rajajinagara)",West of Chord Road,Basaveshwaranagara,2,ORR -2
+S-124,"Kamalanagara- Shaktiganapathi Nagar 
+Road",Ring Road,"1st Cross Road  (West 
+of Chord Road)",Basaveshwaranagara,3,ORR -3
+S-125,"Patalamma Street- 1st Main Road 
+(Rajajinagara)",Magadi Road,Chord Road,Havanur Circle,4,ORR -4
+S-126,9th Cross Road (Rajajinagara),"1st Main Road 
+(Rajajinagara)",Magadi Road,Rajajinagara Industrial Town,1,ORR -1
+S-127,Syndicate Bank Colony Road,Magadi Road,KVRV Road,Prashanthanagara Colony,1,ORR -1
+S-128,Prashanthanagara Road,Magadi Road,Nagarbhavi Main Road,"Kamakshipalya Industrial Area 
+,Kaverinagar",3,ORR -3
+S-129,Malegalu Main Road,Magadi Road,Mallathahalli Road,"Nagarbhavi 2nd Stage- Vinayaka 
+Layout",4,"ORR -1
+Raja 
+-3
+Rajeshwarinagara"
+S-130,Dwarakavasa Road,Muddina Palya Road,BBMP Limit,BEL Layout,5,"Raja 
+-5
+Rajeshwarinagara"
+S-131,Muggalipalya Road,Muddina Palya Road,BBMP Limit,BEL Layout,5,"Raja 
+-5
+Rajeshwarinagara"
+S-132,Gidadakonnenahalli Road,ORR,Muddinapalya Road,Group D Layout,3,"Raja 
+-3
+Rajeshwarinagara"
+S-133,Mallathahalli Road,ORR,Muddinapalya Road,Balaji Badavane,3,"Raja 
+-3
+Rajeshwarinagara"
+S-134,"15th Main -9th Main -1st Cross 
+(Vijayanagara 1st Stage)","K.V.R.V Road 
+(Nagarabhavi)",Chord Road,"Vijayanagara 1st Stage- Hosahally 
+Extension",3,ORR -3
+S-135,Pipeline Road,"Chord Road @ Nethaji 
+Layout","Chord Road @ near 
+Magadi Road","Vijayanagara- Cholapuram- 
+Ayurvedic College",4,ORR -4
+S-136,20th Main Road (Vijayanagara),"2nd Cross Road 
+Vijayanagara","Pipeline Road 
+(Vijayanagara)",Vijayanagara,2,ORR -2
+S-137,"2nd Cross Road (Chandra Layout- 
+Vijayanagara)",Mysore Road,K.V.R.V Road,"Metro Layout, Chandra Layout- 
+Attiguppe- Basaveshwara HBCS 
+Layout- Kanakanagara",6,"ORR -5 
+Raja 
+-1
+Rajeshwarinagara"
+S-138,2nd Main Road (Kalyananagara),Nagarabhavi Main Road,"Nagarabhavi Main 
+Road",Kalyananagara,2,ORR -2
+S-139,Vijayanagara- Basaveshwara HBCS Layout,Nagarabhavi Main Road,Chord Road,"Vijayanagara- Basaveswara HBCS 
+Layout",4,ORR -4
+S-140,4th Cross Road (Vijayanagara),Chord Road,"20th Main Road 
+(Vijayanagara)","Sharavathi- 2nd Stage, 
+Vijayanagara",2,ORR -2
+S-141,"22nd Main Road, 5th Main Road 
+(Vijayanagara)",2nd Cross (Vijayanagara),"Pipeline Road, 
+Vijayanagara","1st Stage, Vijayanagra",2,ORR -2
+S-142,Hosahalli Main Road(Lokappa Road),Pipeline Road,Tank Bund Road,Jagajivanram Nagara,3,ORR -3
+S-143,Binnipete Road,"Hosahalli Main Road 
+(Lokappa Road)",T.C.M Royan Road,Binnipete,3,ORR -3
+S-144,T.C.M Royan Road,Kempe Gowda Bus Stand,N.R. Road,Sultanpet- Cottonpet- Upparpet,2,ORR -2
+SL .NO,NAME OF THE ROAD,ORIGIN,DESTINATION,ENROUTE (VIA),"APPR.  LENGTH 
+(KM)",ZONE
+S-145,Pipeline Road,Pipeline Road,"Kumaraswamy Temple 
+Road","Mysore Road- Gavipuram 
+Extension",4,ORR -4
+S-146,Peenya 3rd Phase  Road,NH-4,"Hegganahalli Main 
+Road",Peenya Industrial Suburb,3,Dasarahalli -3
+S-147,1st Main Road (Peenya Industrial Area),High Tension Road,ORR @ Acharya ITI,Peenya Industrial Area - II Phase,5,Dasarahalli -5
+S-148,Peenya Industral Area - IV Phase Road,Handrahalli Main Road,"Hegganahalli Main 
+Road","Peenya Industrial Area II & III 
+Stage",4,Dasarahalli -4
+S-149,Tigalarapalya 2nd Main Road,"Handrahalli Main Road 
+@ Raghavendra 
+Industrial Estate","Peenya Industrial Area 
+4th Main",Raghavendra Industrial Estate,2,Dasarahalli -2
+S-150,"Vidyaman Nagar, Hegganahalli, 
+Srigandhanagar Main Road","Handrahalli Main Road 
+@ Vidyaman nagar","Hegganahalli Main 
+Road","Maruthinagara- Byraveswara 
+Industrial Area- Handra Hally- 
+Hegganahalli- Doddanna Industrial 
+Area",7,Dasarahalli -7
+S-151,3rd Main (Rameshwara Temple Road),9th Cross Chamarajpet,Pampa Mahakavi Road,Chamarajpet,2,ORR -2
+S-152,"8th Main (Lakshmipuram Main) Appurao 
+Road, Hayavardhana Rao Road)",Bull Temple Road,"9th Cross (Idga 
+Mydana Road) 
+Chamarajpet","Kempegowda Nagar Tower- 
+Gavipuram extension- Brindavana 
+Nagar- Chamarajpet (1st Main 
+Road)",6,ORR -6
+S-153,Timber Yard Layout Road,Mysore Road,"1st Main Road 
+(Kumaraswamy 
+Temple Road)",Timber Yard Layout,3,ORR -3
+S-154,Hosakerehalli Main Road,Mysore Road,Muktambika Nagar,"Avalahalli- Byatarayanapura- 
+Aranganagudda",4,"ORR -3
+Raja 
+-1
+Rajeshwarinagara"
+S-155,"5th Main Road (Kumaraswamy Temple 
+Road)",Muktambika Nagar,"B.M.S Engineering 
+College","Pushpagiri Nagara- Javarana Doddi
+BSK 2nd Stage- Pallavi Garden- 
+Hanumanthanagar",11,"ORR -6
+Raja 
+-5
+Rajeshwarinagara"
+S-156,Girinagara Road,80ft Road,"Hosakere Halli Main 
+Road",Girinagara,2,ORR -2
+S-157,"Katriguppe Main Road -5thMain- 2nd 
+Main (Padmanabhanagara)",Bull Temple Road,ORR,"Vidyapeeta Circle 
+(Padmanabhanagara)",6,"ORR -4
+Raja 
+-2
+Rajeshwarinagara"
+S-158,Rangarao Road,Tippusulthan Road,Vanivilas Road,Shankarapuram,2,ORR -2
+S-159,Pampa Mahakavi Road,Tippusulthan Road,Vanivilas Road,Shankarapuram,2,ORR -2
+S-160,J.C. Road,H.P.O @ N.R. Road,Armugam Circle,Town Hall- Sajjan Rao Circle,4,ORR -4
+S-161,Siddaiah Road,Kalasipalya Bus Stand,Bannerghatta Road,"Wilson Garden- Nandini Hotel 
+Minarva Circle",5,ORR -5
+S-162,Kavi Lakshmisha Road (Diagonal Road),K.R. Road Circle,"Lalbagh Fort Road 
+(Minarva Circle)","Sajjan Rao Circle- 
+Visweswarapuram",2,ORR -2
+S-163,Gandhi Bazar Road,Bull Temple Road,K.R. Road,Gandhi Bazar Market,1,ORR -1
+S-164,"Bungle rock Road- BP Wadia Road- 
+Kanakana Palya Road",Bull Temple Road,"Ashoka Pillar @ 
+Siddapura Road circle",K.R. Road- R.V. Road,3,ORR -3
+S-165,Nagasandra Main Road (Tyagarajnagar),"14th Cross Road (Yediur 
+Nagasandra Road)",B.P.Wadia Road,"N.R. Colony- Nethaji Road- 
+Yediyur- Basavanagudi",6,ORR -6
+S-166,South End Road,Mariyappa Road,"Nagasandra Main 
+Road","Pai Viceroy- R.V. Road- 
+Kanakapura Road",2,ORR -2
+S-167,21st Main Road (Kumaraswamy Layout),ORR (Eashwaranagara),Kanakapura Road,"Dayananda Sagar College (Kumara 
+Swamy Layout)- Vikaram nagara- 
+METRO",4,"Raja 
+-4
+Rajeshwarinagara"
+S-168,Chunchaghatta Main Road,Kanakapura Road,"Srinidhi Layout- 
+Kothnur Road",Chunchaghatta,3,Bommanahalli -3
+S-169,"Amruthanagara- Gollahalli- Kembattahalli 
+Road","Kanakapura Road @ 
+Konanakunte Cross","BBMP Limit (Joining) 
+Banneraghatta Road)",Anjanadevi Layout,8,Bommanahalli -8
+S-170,Kothnur Dinne Road,Amruthanagara Road,"Bannerghatta Road @ 
+AGN Kalyana 
+Mantapa",Kothnur Dinne- Syndicate Bank,6,Bommanahalli -6
+S-171,Amruthnagara Main Road,"Srinidhi Layout- Kothnur 
+Road","Kothnur Main Road @ 
+Byrappa Circle",B.D.A Layout,5,Bommanahalli -5
+S-172,Anjanapura Road,Kanakapura Road,"Amruthanagara, 
+Kembattahalli @ 
+Gollahalli","Narayana Rao Layout- Avalahalli- 
+Anjanapura",7,Bommanahalli -7
+S-173,"18th Main Road- 7th Main Road 
+(Padmanabhanagara)",ORR,"Uttarahalli Main Road-
+BSK ,3rd Stage-IV 
+Phase",Padmanabhanagara,2,"Raja 
+-2
+Rajeshwarinagara"
+S-174,Ittamadu Main Road,ORR,"Uttarahalli Main Road-
+BSK, 3rd Stage, IV 
+Phase",Ittamadu,4,"Raja 
+-4
+Rajeshwarinagara"
+S-175,Ajwani Road,Kenchenahalli Main Road,Ittamadu road,"BEML Layout- R.R. Nagar IV 
+Phase",4,"Raja 
+-4
+Rajeshwarinagara"
+S-176,Srinivasaiah- Jawaharalal Nehru Road,Kenchenahalli Main Road,Uttarahalli Main Road,"BEML Layout- R.R. Nagar IV 
+Phase",3,"Raja 
+-3
+Rajeshwarinagara"
+S-177,Kenchenahalli Main Road,Mysore Road,Uttarahalli Main Road,Raja Rajeshwari Nagar,6,"Raja 
+-6
+Rajeshwarinagara"
+S-178,Tata Show Room- Kenchenahalli Road,"Mysore Road @ TATA 
+Show Room","Kenchenahalli Main 
+Road",R.R Nagar (Kenchenahalli),3,"Raja 
+-3
+Rajeshwarinagara"
+S-179,L.G. Godown Road,"Kenchenahalli Main Road
+@ Halagevadera Halli 
+Junction","Kenchenahalli Main 
+Road @ Best Club 
+Road Junction","BEML Layout, R. R. Nagar",3,"Raja 
+-3
+Rajeshwarinagara"
+S-180,Pattanagere Main Road,Mysore Road,"Kenchenahalli Main 
+Road","BEML Layout, R. R. Nagar",3,"Raja 
+-3
+Rajeshwarinagara"
+S-181,Vaddarapalya Road,ORR,Mysore Road,Dubashipalya,3,"Raja 
+-3
+Rajeshwarinagara"
+S-182,Nagadevana halli Road,ORR,"Bangalore University 
+Road",Jagajyothinagara,2,"Raja 
+-2
+Rajeshwarinagara"
+S-183,Kenchanapura Road,Dodda Basti,Nagadevanahalli Road,"Doddabasti-Sonnenahalli- 
+Bhuvaneshwarinagara- Jagajyothi 
+Nagara",5,"Raja 
+-5
+Rajeshwarinagara"
+S-184,Mariyappana Palya Road,ORR,"Bangalore University 
+Road",Mariyappanapalya,2,"Raja 
+-2
+Rajeshwarinagara"
+S-185,Manganahalli-Ramapura Road,Komaghatta Road,Bedarahalli Road,"Vishweshwaraiah Layout IV th 
+Phase",6,"Raja 
+-6
+Rajeshwarinagara"
+S-186,Mylasandra Road,Mysore Road,"Uttarahalli Main Road 
+(B.G.S Institute)",BEML Layout (RR Nagar),3,"Raja 
+-3
+Rajeshwarinagara"
+S-187,Hemmigepura (Kodihalli) Road,Uttarahalli Main Road,"BBMP Limit (Near 
+NICE Road)",Kodipalya,6,"Raja 
+-6
+Rajeshwarinagara"
+S-188,"Road between Pat anagere Main Road & 
+Mylasandra Road
+a",Pattanagere Road,Mylasandra Road,BHEL Layout (RR Nagara),2,"Raja 
+-2
+Rajeshwarinagara"
+S-189,Sigehalli Road,Basavanapura Road,"Sonnenahalli Layout 
+Road",Sigehalli,3,Byatarayanapura -3
+S-190,BHEL Colony Road,Pattanagere Main Road,Ganakallu,"Global Village -BHEL Colony -
+Uttarahalli Main Road -Ganakallu",5,"Raja 
+-5
+Rajeshwarinagara"
+S-191,Banasawadi 4th Stage Road,Uttarahalli Main  Road,Kanakapura  Road,Ganakallu - Kariyanapalya,8,"Raja 
+-8
+Rajeshwarinagara"
+S-192,Chikkegowdanapalya  Road,Kodipalya  Road,Kanakapura Road,Ganigarapalya,9,"Raja 
+-9
+Rajeshwarinagara"
+S-193,Bharath Housing Soceity  Road,Uttarahalli Main  Road,BSK 4th Stage,Bharath Housing Society,3,"Raja 
+-3
+Rajeshwarinagara"
+S-194,Bharath Housing Soceity  Road,Uttarahalli Main  Road,BSK 4th Stage,Turahalli,4,"Raja 
+-4
+Rajeshwarinagara"
+S-195,Krishna Rao - Krumbigal  Road,Lalbagh North Gate,MN Krishna Rao Park,Siddaiah Road,2,ORR -2
+S-196,Devanga  Road - Lalbagh  Road,Hudson Circle,Lalbagh North Gate,"Basappa Circle - Lalbagh main gate 
+- Urvashi Theatre",3,ORR -3
+S-197,P Kalinga Rao - Kadidal Manjappa  Road,NR Square (BBMP),Hosur Road,Longfort Town,3,ORR -3
+S-198,Rhenius Road,"General Thimmaiah Road 
+(Richmond  Road)","Kadidal Manjappa 
+(Longford Road)",Hockey Stadium,1,ORR -1
+S-199,O' Shaughnessy  Road,"Kadidal Manjappa  Road 
+(Longford  Road)",Rhenius  Road,Infront of Baldwin School,1,ORR -1
+S-200,Urvashi - Sudhama nagara  Road,JC Road,Bannerghatta  Road,Sudhama nagara - KH Road,4,ORR -4
+S-201,Sanatorium  Road,Marigowda Road,Swagath Theatre  Road,Bairasandra Extension,3,ORR -3
+S-202,"Byrasandra Main Road - 1st Cross Main  
+Road - Sanatorium  Road","10th Main  Road 
+(Mariyappa  Road) 
+Jayanagara","8th Main  Road 
+(Jayanagara)","1st block, Byrasandra Extension",2,ORR -2
+S-203,"Pattalamma Temple  Road - Byrasandra 
+Main  Road",Armugam Circle,"8th Main  Road (RBI 
+Colony, Jayanagara)","Stadium, Jayanagara",3,ORR -3
+S-204,2nd Main  Road (Jayanagara),"Nittur Srinivasa  Road 
+(South End  Road)",Marenahalli  Road,Jayanagara,3,ORR -3
+S-205,27th Cross  Road (Jayanagara),Kanakapura  Road,"11th Main  Road 
+(Jayanagara)",Nanda Theatre,2,ORR -2
+S-206,9th Main  Road (Jayanagara),Marenahalli  Road,"Kanakanapalya - 4th 
+cross (Jayanagara - 2nd
+Block)","5th Block Shopping Complex - 4th 
+Block (Jayanagara)",5,ORR -5
+S-207,"Swagath Theatre Road - 30th Cross Road 
+(Jayanagara)",Kanakapura  Road,"Bannerghatta  Road  @
+Sagar Appollo","30th Cross  Road - Shopping 
+Complex (Jayanagara)",4,ORR -4
+S-208,9th Main  Road (Jayanagara),Merenahalli  Road,"30th Cross  Road 
+(Jayanagara)","Telephone Exchange - RV Dental 
+College - Shopping Complex - 3rd 
+Block Elephant Rock  Road",2,ORR -2
+S-209,33rd Cross  Road (Jayanagara),"4th Main  Road 
+Jayanagara","16th Main  Road - 
+Jayanagara",Pattabhiram nagara,2,ORR -2
+S-210,36th Cross  Road (Jayanagara),Kanakapura  Road,Tavarekere  Road,"JSS College- Jayanagara 5th Block-
+Guruppana palya - Katariram 
+nagara",5,ORR -5
+S-211,16th Main Road (Jayanagara),"32nd Cross 
+Road(Jayanagara)","39th Cross  Road 
+(Jayanagara)",Pattabhiram Nagara (Jayanagara),2,ORR -2
+S-212,18th Main  Road (Jayanagara),Marenahalli  Road,"32nd Cross  Road 
+(Jayanagara)","Krishna & GNR Kalyana mantapa - 
+(Jayanagara)",2,ORR -2
+S-213,32nd Cross  Road (Jayanagara),East End Road,Church Stop,"Rajiv Gandhi University (Tilak 
+nagara)",1,ORR -1
+S-214,"26th Cross  Road  (T- Block, Jayanagara)",Marenahalli  Road,"32nd Cross,Tilak 
+Nagara Road- 
+Jayanagara)","BMTC Bus Stop - Jayanagara - 
+General Hospital",2,ORR -2
+S-215,"25th - 26th Main Road (Jayanagara -4th 
+Block)","Swagath  Road 
+(Jayanagara)","Meranahalli  Road 
+(South end  Road)",Jayanagara 4th Block - Tilaknagara,2,ORR -2
+S-216,8th Main - 20th  Main  Road (Jayanagara),"Swagath  Road 
+(Jayangara)",ORR,"4th Block Jayanagara - 3rd phase 
+Jayanagara",4,ORR -4
+S-217,East End  Road (Jayanagara),Marenahalli  Road,Swagath Road,"Carmel Convent school 
+(Tilaknagara)",2,ORR -2
+S-218,39th Cross  Road (Jayanagara),"11th Main  
+Road(Jayanagara)",Bannerghatta Road,"9th block, Jayanagara",3,ORR -3
+S-219,Sarakki Main  Road,Kanakapura  Road,Bannerghatta Road,"Sarakki - JP nagara, 2nd & 3rd 
+phase - Oxford Polytechnic college 
+junction",5,ORR -5
+S-220,Puttenahalli Main  Road,"Kothnur - Puttenahalli  
+Road",Bannerghatta  Road,"Brigade Millenium - ULBA -AECS 
+- Maruthi College of Science 
+(Joining at IIM)",3,Bommanahalli -3
+S-221,Arakere Tank Bund  Road,Beereshwaranagara,Bannerghatta  Road,"Brigade Millenium - Holy Mothers 
+Engineering School",4,ORR -4
+S-222,Mother Theresa - Old Race Course  Road,"General Thimmaiah  
+Road",Lower Agaram Road,"Ashoknagara Traffic Police Station 
+& ORR Road",2,ORR -2
+S-223,Palmgrove  Road - KHB Rahman  Road,Victoria,Bazaar  Road,Victoria Layout,2,ORR -2
+S-224,Anepalya Main  Road - Masjid  Road,Hosur Road,Mother Theresa  Road,Nilasandra,3,ORR -3
+S-225,"Bazaar Street - Shinvagulu Main  Road 
+(Ejipura Main  Road)",Anepalya Main  Road,Inner Ring  Road,"Ejipura - Vivekanagara - 
+Nilasandra",3,ORR -3
+S-226,New Mico  Road,Bannerghatta  Road,Hosur Road,Mico Sports Complex,1,ORR -1
+S-227,Adugodi Main Road,Hosur Road,20th Main  Road,Adugodi,2,ORR -2
+S-228,"20th Main Road (Koramangala - 80ft 
+Road)",Hosur Road,Peripheral Road,Koramangala,2,ORR -2
+S-229,5th Cross Road  (Koramangala),"20th Main  Road (80 ft  
+Road, Koramangala)","17th Main  Road 
+(100ft  Road 
+,Koramangala)",Koramangala,1,ORR -1
+S-230,1st A Cross  Road (Koramangala),"20th Main  Road (80ft  
+Road,Koramangala)","17th Main road (100ft 
+Road,Koramangala)",Koramangala,2,ORR -2
+S-231,Tank Bund  Road,Banneghatta  Road,Marigowda  Road,Christ School -Sidduguntapalya,2,ORR -2
+S-232,8th Main  Road (Koramangala),"17th Main Road 
+(Koramangala)",NH-4,Jakkasandra - Madivala Block,3,ORR -3
+S-233,7th Cross  Road (Koramangala),"17th Main  Road 
+(Koramangala)","7th Main  Road 
+(Koramangala)",Koramangala,2,ORR -2
+S-234,1st Main  Road (Koramangala),"7th Main  Road 
+(Koramangala)",Sarjapura  Road,1st Block (Koramangala),1,ORR -1
+S-235,"20th Main  Road(Maruthinagara Main  
+Road)","Merenahalli  Road 
+(ORRC)",Hosur Road,Chikkamadivala,2,ORR -2
+S-236,"Gurappanapalya Road - Jaibheemanagara  
+Road (Madivala)",Bannerghatta Road,Hosur Road,"Guruppanapalya - KEB Layout - 
+Chikkamadivala",4,ORR -4
+S-237,"7th Main - 13th Main  Road (BTM layout, 
+2nd Stage)",Marenahalli  Road(ORR),Madeena Nagara,BTM Layout - 1st Stage,2,Bommanahalli -2
+S-238,"29th Main  Road, BTM Layout",Marenahalli  Road (ORR),"16th Main  Road 
+Madeenanagara (on 
+Madivala Tank)",BTM Layout - 2nd Stage,2,Bommanahalli -2
+S-239,Devarachikkanahalli  Road,Banneraghatta  Road,Begur Main  Road,"Bilekahalli - BTM Layout -4th 
+Stage - Devarachikkanahalli - 
+Rotary nagara",6,Bommanahalli -6
+S-240,Bilekahalli - Kodichikkanahalli  Road,Bilekahalli  Road,Viratnagara,Kodichikkanahalli,3,Bommanahalli -3
+S-241,Arakere Main Road,Bannerghatta  Road,"Nyanappanahalli Main 
+Road",Sarvabhoumanagara - Arakere,4,Bommanahalli -4
+S-242,Thayappa Garden  Road,Vijay Enclave,Kempamma Layout,IBPT Petrol Bunk -Saibaba Bunk,2,Bommanahalli -2
+S-243,Nethaji  Road,Arakere Main  Road,"Devarachikkanahalli  
+Road","BTS Layout - Thayappa garden  
+Road",2,Bommanahalli -2
+S-244,Yelenahalli  Road,Nyanappanahalli  Road,Begur Main  Road,Doddakammanahalli,10,Bommanahalli -10
+S-245,Ring Road,Thayappa Garden  Road,Begur Main  Road,Royal Residency Layout,2,Bommanahalli -2
+S-246,"Hulimavu gate- Kemaiah layout - Ittasandra
+- Naganathapura Juntion - VGP Layout 
+Junction  Road",Hulimavu Gate,VGP Layout Junction.,"Hulimavu Gate- Kemaiah Layout - 
+Ittasandra - Naganathapura 
+Junction - VGP Layout Junction 
+(Kudlu)",15,Bommanahalli -15
+S-247,Hulimavu - Nyanappanahalli  Road,Hulimavu  Road,Yelenahalli Road,Hulimavu - Nyanappanahalli,4,Bommanahalli -4
+S-248,Chikkabegur Road,Begur Main  Road,Hosur Road,Vishwapriyanagara - Chikkabegur,4,Bommanahalli -4
+S-249,Kudlu Road,Hosur Road,BBMP Limit,"AIM Industrial Area - Concord 
+Archade - Kudlu - Naganathapura",10,Bommanahalli -10
+S-250,Singasandra  Road,Kudlu Road,Kudlu Road,HAL - Silk Board layout,4,Bommanahalli -4
+S-251,Garebhavipalya - Bande palya  Road,Begur Main  Road,Hosapalya  Road,Garebhavi palya - Bandepalya,3,Bommanahalli -3
+S-252,27th Cross  Road (HSR layout),Hosur Road,"Sarjapura  Road 
+(ORR)","Mangammanapalya - Hosapalya - 
+Parangi Palya - Vanganahalli - 
+Agara",8,Bommanahalli -8
+S-253,"Krishna Reddy Industrial Area - Hosapalya 
+Road","27th Cross 
+(Mangammanapalya )",Kudlu Road,"Krishnareddy Industrial Area - 
+Hosapalya",2,Bommanahalli -2
+S-254,Somasundrapalya  Road,"Hosapalya (Gollarapalya 
+Road Junction)",Haralur  Road,Somasundarapalya,2,Bommanahalli -2
+S-255,"17th Main - 22nd Cross  Road(Hosur - 
+Sarjapura  Road Layout)","27th Cross 
+Road,Yellukunte","24th Main  Road,HSR 
+Layout","HSR Layout Sect 3,2",2,Bommanahalli -2
+S-256,"5th Main  Road, HSR Layout",ORR,"27th Cross, Yellukunte 
+HSR Layout","HSR Layout Sect 3,2",2,Bommanahalli -2
+S-257,"9th Main - 17th Cross - 14th Main  Road 
+(HSR Layout)",ORR,"27th Cross, Yellukunte 
+HSR Layout","HSR Layout Sect 3,2",3,Bommanahalli -3
+S-258,Haralur,Sarjapura  Road,Kudlu Road,"Kudlu - Haralur - Green Meadows -
+Amblipura",4,Bommanahalli -4
+S-259,Chandrapura,Haralur Road,"Kaikondanahalli Main 
+Road",Chandrapura,2,Bommanahalli -2
+S-260,Bellandur Road,Sarjapura  Road,ORR,ORR - Bellandur,5,"Bommanahalli -1
+ORR -4"
+S-261,Karmalaram  Road,Sarjapura  Road,Gunjur Road,Kannal - Karmalaram,5,Mahadevapura -5
+S-262,Gunjur  Road- Kodathi  Road,Gunjur,BBMP Limit,Mulluru - Shantigiri - Kodathi,8,Mahadevapura -8
+S-263,Cambridge  Road,Swamvivekananda  Road,Airport Road,Combridge Layout,2,ORR -2
+S-264,"7th Main - 6th Main  Road (Sirdi Saibaba 
+Mandir  Road)",Combridge Road,"80ft Indiranagara  
+Road",Dr. Ambedkar College,3,ORR -3
+S-265,"Jogapalya Road- Shamanna Layout  Road 
+(Ulsoor)","Swami Vivekananda  
+Road","Sirdi Saibaba mandir  
+Road",Shamanna Layout,2,ORR -2
+S-266,"Indiranagara Double  Road (1st Main ) 
+Domlur - Indiranagara)",Old Madras  Road,"Inner Ring  Road  
+(Kodihalli)",Foodworld (Dupanahalli),3,ORR -3
+S-267,Gokul Extension  Road,NH-4,"Basavanapura Main  
+Road",Gokul Extension,2,Mahadevapura -2
+S-268,"12th Main  Road (Indiranagara 
+(Dupanahalli)","Indiranangara Double  
+Road","80ft Road - 
+Indiranagara",Dupanahalli - HAL Stage,2,ORR -2
+S-269,"3rd Cross - 13th Main Saidarshan Road- 
+10th Main (Jeevanabhimnagara)","Airport  Road @ New 
+Shanthisagar Apartments",Suranjadas Road,"Domlur - Dupanahalli - HAL 2nd 
+Stage - LIC Colony, 
+Jeevanbhimnagar",5,ORR -5
+S-270,NR Colony Main  Road,"10th Main  Road 
+(Jeevanbheemnagar)",Airport  Road,"Nanjareddy Colony - 
+Jeevanbheemnagara",2,ORR -2
+S-271,"BEML - Kengal Hanumanthaiah Main  
+Road - Namjoshi  Road",80ft Road,Airport - Varthur Road,"GM Palya - Malleshappanapalya - 
+New Thippasandra - Vimanapura - 
+Vibhuthipura",8,ORR -8
+S-272,"LBS Nagara Main Road - Dr. Ambedkar  
+Road","Kengal Hanumanthiah  
+Road","Annasandrapalya Main
+Road","Vimanapura - Lalbahaddur Shastri 
+nagara",2,ORR -2
+S-273,Annasandrapalya Main  Road,Suranjan Das Road,Namjoshi   Road,Annasandrapalya,3,ORR -3
+S-274,Sudduguntepalya - Bairasandra  Road,Suranjan Das Road,Varthur  Road,Sudduguntepalya - Bairasandra,3,ORR -3
+S-275,Varthur - Kaggadasapura Main  Road,Old Madras  Road,"Kengal 
+Hanumanthaiah  Road",CV Ramannagara - Kaggadasapura,5,ORR -5
+S-276,Bairasandra  Road,"Kaggadasapura Main  
+Road","Kengal 
+Hanumanthaiah Road",Bhuvaneshwarinagara,2,ORR -2
+S-277,Whitefield - Kaggadasapura Main Road,White Field,"Kaggadasapura Main 
+Road @ Railway Line","Radavala Colony - Mahadevapura 
+Cross - Ranganatha Layout -",4,"ORR -2
+Mahadevapura -2"
+S-278,"Garudacharpalya Road- - Kengal 
+Hanumanthaiah Road Vignanagara",White Field,"KH Road @ Namjoshi 
+Road  Junction","Mahadevapura Industrial Area, 
+Vibhuthinagara",8,"ORR -5
+Mahadevapura -3"
+S-279,Graphite - India Road,White Field Road,Hudi Main Road,KSSIDC Industrial Estate,2,Mahadevapura -2
+S-280,"2nd Main (Vishweshwaraiah Industrial 
+Estate) (Doddanekkundi Extension)","Graphite - India Road - 
+White Field Road @ 
+Interior Systems","Railway Parallel Road 
+@ Graphite India 
+(Vishweshwaraiah 
+Industrial Road)",Vishweshwaraiah Industrial Estate,2,Mahadevapura -2
+S-281,"Southern Railway Parallel Line Road 
+(Guntur Road)",White Field Road,Panathur Road,"Doddanekkundi Extention - 
+Channappanahalli - Gandhinagara 
+(Munekollal)",6,Mahadevapura -6
+S-282,"Basavanna Main Road Whitefield - 
+Graphite Road","Hudi Main Road -White 
+Field Road","White Field Road 
+Graphite India Road","Seetharampalya - Maruthinagara 
+SJR -IT Park - TCS - G'BELL - 
+SAP - Rmz",7,Mahadevapura -7
+S-283,Borewel Road (White Field),Varthur Road,White Field Road,Nallurahalli - White Field,4,Mahadevapura -4
+S-284,"1st Main Road (Pattandur - Agrahara 
+Road)",Railway Line,White Field Road,IT Park- White Field,6,Mahadevapura -6
+S-285,Sadaramangala Road,"Hudi Main Road 
+@Railway Gate Junction",Sadaramangala,Railway Line,3,Mahadevapura -3
